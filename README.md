@@ -28,7 +28,7 @@ Contact
 
 For inquiries about my services or collaboration opportunities, feel free to reach out to me via:
 https://t.me/infosecvarun3
-linkedin.com/in/infosecvarun3
+https://linkedin.com/in/infosecvarun3
 
 Certifications
 • Certified Red Team Professional by Pentester Academy
